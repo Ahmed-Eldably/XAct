@@ -1,0 +1,2 @@
+# XAct
+The final project of CS50 online course, Harvard Introduction to Computer Science. The project is about an iOS App that helps you find the activities happening nearby and also to promote NGOs and their influence on shaping the awareness and skills needed for students and don't forget as well having fun. The idea is still in the beginning but with the help of the current NGOs, it is gonna be implemented on a larger scale.
